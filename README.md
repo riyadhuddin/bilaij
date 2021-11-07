@@ -13,6 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-!['pori']('./img/nft.jpg')
-!['admission']('./img/tokenURI.jpg')
-!['Thanks to']('https://app.buildspace.so/')
+![pori]('https://github.com/riyadhuddin/bilaij/tree/main/img/nft.jpg')
+![admission](https://github.com/riyadhuddin/bilaij/tree/main/img/tokenURI.jpg)
+[Thanks to](https://app.buildspace.so/)
