@@ -21,7 +21,7 @@ App description:
 - Blockchain Layer:
   - Trading System
   - Review System
-  - Smart Contracts 
+  - Smart Contracts
 - Infrastructure Layer:
   - GCP
   - IBM Managed blockchain
@@ -76,10 +76,12 @@ App Roles:
   - issue certificate to producer
   - issue certificate to distributor
 
-Example supply chain implementation with blockchain traceability:
- Food industry of Bangladesh
- Footwear industry of Bangladesh
-Basic breakdown of the Food industry supply chain project:
+<i> Example supply chain implementation with blockchain traceability:
+
+1. Food industry of Bangladesh
+2. Footwear industry of Bangladesh
+
+<b> Basic breakdown of the Food industry supply chain project:
 
 - Producer & Farmer
   - is the person who produces the raw product
