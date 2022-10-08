@@ -72,6 +72,9 @@ App Roles:
   - View All Products
   - Review Product
   - Certify Product
+  - De-certify Product
+  - issue certificate to producer
+  - issue certificate to distributor
 
 Try running some of the following tasks:
 
