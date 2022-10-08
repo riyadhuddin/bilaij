@@ -123,8 +123,7 @@ App Roles:
   - is verified by the certifier
   - is selling the final product to the customer
   - is stakeholder of the supply chain
-
-Try running some of the following tasks:
+<br>Try running some of the following tasks:
 
 ```shell
 npx hardhat accounts
