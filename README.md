@@ -28,7 +28,7 @@ App description:
   - Moralis
   - AWS Ledger
 
-System Architecture:
+<b>System Architecture:
 ![System Architecture](https://github.com/riyadhuddin/stwb/blob/main/img/supply%20chain(1).png)
 
 App Roles:
