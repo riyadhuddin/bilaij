@@ -28,7 +28,7 @@ App description:
   - Moralis
   - AWS Ledger
 
-<b>System Architecture:
+**System Architecture:**
 ![System Architecture](https://github.com/riyadhuddin/stwb/blob/main/img/supply%20chain(1).png)
 
 App Roles:
@@ -79,12 +79,12 @@ App Roles:
   - issue certificate to producer
   - issue certificate to distributor
 
-<i> Example supply chain implementation with blockchain traceability:
+*Example supply chain implementation with blockchain traceability:*
 
 1. Food industry of Bangladesh
 2. Footwear industry of Bangladesh
 
-<b> Basic breakdown of the Food industry supply chain project:
+**Basic breakdown of the Food industry supply chain project:**
 
 - Producer & Farmer
   - is the person who produces the raw product
