@@ -29,7 +29,7 @@ App description:
   - AWS Ledger
 
 System Architecture:
-![System Architecture]('img/supply chain(1).png')
+![System Architecture](https://github.com/riyadhuddin/stwb/blob/main/img/supply%20chain(1).png)
 App Roles:
 
 - Admin
