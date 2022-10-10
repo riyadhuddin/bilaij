@@ -23,10 +23,11 @@ App description:
   - Review System
   - Smart Contracts
 - Infrastructure Layer:
-  - GCP
-  - IBM Managed blockchain
-  - Moralis
-  - AWS Ledger
+  - IPFS
+  - blockchain node connection
+  - Kubernetes
+  - Serverless functions
+  - Cloud storage
 
 **System Architecture:**
 ![System Architecture](https://github.com/riyadhuddin/stwb/blob/main/img/supply%20chain(1).png)
